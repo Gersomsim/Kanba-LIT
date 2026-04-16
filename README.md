@@ -1,7 +1,7 @@
 # Kanban Board — Lit Web Components
 
 ![Tests](https://github.com/Gersomsim/Kanba-LIT/actions/workflows/ci.yml/badge.svg)
-![Coverage](https://img.shields.io/badge/coverage-TBD-lightgrey)
+[![codecov](https://codecov.io/gh/Gersomsim/Kanba-LIT/branch/main/graph/badge.svg)](https://codecov.io/gh/Gersomsim/Kanba-LIT) 
 
 Proyecto de estudio construido con **TDD (Test-Driven Development)** para aprender a construir aplicaciones con **Web Components nativos** usando la librería **Lit**. Cada componente fue implementado escribiendo primero los tests y luego el código que los hace pasar.
 
